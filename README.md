@@ -81,7 +81,6 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## Output:
-<img width="1920" height="1080" alt="361860644-4378d427-08b3-45b6-84d7-0f2c3f9f8da0" src="https://github.com/user-attachments/assets/b03b90be-3590-4615-b370-123006c9ba6e" />
 
 
 ## Result:
